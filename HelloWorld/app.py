@@ -1,0 +1,2 @@
+s = "save"
+s.upper()
